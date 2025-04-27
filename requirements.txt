@@ -1,4 +1,4 @@
-git+https://github.com/ps-updates/pyrogram.git
+pyrofork
 TgCrypto
 pyromod==1.5
 python-dotenv
