@@ -1,5 +1,5 @@
 # --- For-Bot-Working --------- #
-https://github.com/youesky/pyrogram
+git+https://github.com/youesky/pyrogram.git
 TgCrypto
 pyromod==1.5
 python-dotenv
